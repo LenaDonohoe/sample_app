@@ -1,4 +1,13 @@
 class StaticPagesController < ApplicationController
-  def Common Questions
+  def faq
+  end
+
+  def home
+  end
+
+  def help
+  end
+
+  def about      
   end
 end
