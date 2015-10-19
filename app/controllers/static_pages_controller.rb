@@ -1,16 +1,4 @@
 class StaticPagesController < ApplicationController
-	# Simple comment: Static pages actions
-  def home
+  def Common Questions
   end
-
-
-  def help
-  end
-
-  def about
-  end
-
-   def contact
-  end
-
 end

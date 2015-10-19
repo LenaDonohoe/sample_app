@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
 
+  get 'static_pages/Common Questions'
+
   get 'users/new'
 
  root 'static_pages#home'
